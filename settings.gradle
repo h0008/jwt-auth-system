@@ -1,0 +1,3 @@
+rootProject.name = 'jwt-auth-system'
+include 'identity-service'
+include 'gateway-service'
